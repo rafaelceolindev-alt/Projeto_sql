@@ -1,2 +1,7 @@
+SELECT  idCliente,
+        DtCriacao,
+        DtAtualizacao
 
-SELECT 1 + 1 * 10
+ FROM clientes;
+
+ SELECT 'executar duas consultas diferentes';
