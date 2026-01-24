@@ -1,0 +1,8 @@
+--BUSCAR LISTA DE TRANSACOES COM O PRODUTO  id 10
+
+
+SELECT * 
+
+FROM transacao_produto
+
+WHERE IdProduto = 10;
